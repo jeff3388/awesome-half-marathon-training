@@ -341,6 +341,7 @@ Easy runs must be genuinely easy. Runners who cannot pace easy runs correctly be
 - [Intervals.icu](https://intervals.icu/) — Free training analytics with ATL/CTL/TSB tracking. Ideal for monitoring half marathon training load distribution.
 - [Strava — Fitness & Freshness](https://www.strava.com/) — Built-in training load chart (Fitness/Fatigue/Form) for premium users. Useful for timing your taper correctly.
 - [Running in the USA — Half Marathon Calendar](https://www.runningintheusa.com/) — Searchable half marathon race calendar for finding target races at appropriate distances from your training location.
+- - [Mile Pace Calculator](https://milepacecalculator.com/) - Free pace calculators for runners. Find your mile pace, treadmill pace, marathon pace, splits and finish times.
 
 ---
 
